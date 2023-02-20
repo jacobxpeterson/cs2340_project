@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 2vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: #cfb53b;
+  color: whitesmoke;
+  padding: 4px;
+}
+
+.nav-links {
+  width: 10%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  padding-top: 2vh;
+  font-size: medium;
+  font-weight: bold;
+}
+
+#id1 {
+  padding-bottom: 3%;
+}
+
+table.center {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.map-container {
+  text-align: center;
+  width: 100%;
+  height: 700px;
+}
